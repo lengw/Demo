@@ -5,5 +5,7 @@ public class demo {
     int f=10;
     int d=40;
 
+    int ac=111;
+
     double aa=100;
 }
