@@ -4,7 +4,7 @@ public class demo {
     int c =30;
     int f=10;
     int d=40;
-
+  String aaaaa="";
     int ac=111;
 
    int aaa=11;
