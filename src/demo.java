@@ -7,7 +7,7 @@ public class demo {
   String aaaaa="";
     int ac=111;
     int adddd=12;
-
+double aaaa=54545454445D;
    int aaa=11;
     double aa=100;
 }
