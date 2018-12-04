@@ -6,6 +6,7 @@ public class demo {
     int d=40;
   String aaaaa="";
     int ac=111;
+    int adddd=12;
 
    int aaa=11;
     double aa=100;
